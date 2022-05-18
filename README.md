@@ -17,11 +17,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [ HTML](https://headlessui.dev/react/popover)
-- [CSS](https://tailwindcss.com/docs/installation/using-postcss)
-- [JavaScript](https://vitejs.dev/guide/#trying-vite-online)
+- [headlessui](https://headlessui.dev/react/popover)
+- [tailwind](https://tailwindcss.com/docs/installation/using-postcss)
+- [vite](https://vitejs.dev/guide/#trying-vite-online)
 - react
-- 
 
 
 ## 💻 Projeto
@@ -30,4 +29,4 @@ Componente de feedback desenvolvido utilizando react e consumindo uma API simple
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [desse link]([https://www.figma.com/community/file/1009807319507822993/Origin-Six](https://component-feedback-ten.vercel.app/)).
+Você pode visualizar o projeto através [desse link](https://component-feedback-ten.vercel.app/).
